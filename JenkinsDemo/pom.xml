@@ -3,7 +3,7 @@
   <groupId>Dmeo</groupId>
   <artifactId>0.1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>JenkinsDemo</name>
+  <name>JenkinsDemoLocal</name>
   <dependencies>
   	<dependency>
   		<groupId>junit</groupId>
